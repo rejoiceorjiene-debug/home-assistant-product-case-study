@@ -4,7 +4,8 @@ A public, product-led case study analysing onboarding and activation challenges 
 Home Assistant is a powerful, flexible smart-home platform. However, first-time users may struggle to reach an early “aha moment”, particularly their first successful automation, creating an activation gap during onboarding.
 **Problem Statement**
 New users often fail to achieve their first meaningful success (e.g., a working automation), increasing drop-off risk and reducing long-term retention.
-Defined in **Issue #1**
+Defined in 
+**Issue #1**
 **Success Metric**
 **North Star:**  
 % of new users who complete their first successful automation within 24 hours of setup.
